@@ -1,4 +1,6 @@
 # dart-tools-boost-tool
+![image](https://github.com/DartTools/dart-tools-boost-tool/assets/154604332/e3d37f5e-c1cc-43f3-85db-5e91f23384e9)
+
 This tool is for your nitro token to boost a server that you selected.
 ## Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
 
